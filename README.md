@@ -47,7 +47,7 @@ I believe in the power of collaboration and welcome contributions to my projects
 ## 📫 Get in Touch
 
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sudhanshu-ranjan-7a3305216/)
+- LinkedIn: [Sudhanshu Ranjan](https://www.linkedin.com/in/sudhanshu-ranjan-7a3305216/)
 - Email: your@email.com
 
 Thank you for visiting my GitHub profile! Have a great day!
