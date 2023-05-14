@@ -2,6 +2,9 @@
 
 ![Profile Banner](path/to/banner.png)
 
+![Profile Views](https://komarev.com/ghpvc/?username=sranjan-git&color=green)
+
+
 I'm a passionate software developer with a focus on Web Development. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and experiments that reflect my dedication to continuous learning and exploration in the world of software development.
 
 ## 🚀 About Me
