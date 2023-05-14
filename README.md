@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sranjan-git&color=green)
 
 
-I'm a passionate software developer with a focus on Web Development. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and experiments that reflect my dedication to continuous learning and exploration in the world of software development.
+I'm a passionate software developer with a focus on Web Development. Welcome to my GitHub profile! Here you'll find a collection of my projects, contributions, and experiments that reflect my dedication to continuous learning and exploration in the world of software development. 
 
 ## 🚀 About Me
 
@@ -17,14 +17,13 @@ I'm a passionate software developer with a focus on Web Development. Welcome to 
 
 Here are some of the key technologies and tools I work with:
 
-- **Programming Languages**: [C, C++, Python, Ruby, JavaScript]
-- **Front-end Development**: [HTML, CSS, JavaScript]
-- **Back-end Development**: [NodeJS, PHP]
+- **Programming Languages**: C, C++, Python, Ruby, JavaScript
+- **Front-end Development**: HTML, CSS, JavaScript
+- **Back-end Development**: NodeJS, PHP
 - **Databases**: SQL
-- **Frameworks and Libraries**: [.NET, MongoDB]
-- **DevOps**: [List of DevOps tools]
-- **Version Control**: [.git]
-- **Other Tools**: [LaTeX, Matplotlib, Jupyter, Replit, VSCode, Sublime, CodePen]
+- **Frameworks and Libraries**: .NET, MongoDB
+- **Version Control**: Git
+- **Other Tools**: LaTeX, Matplotlib, Jupyter, Replit, VSCode, Sublime, CodePen
 
 ## 💻 Projects
 
@@ -49,6 +48,8 @@ I believe in the power of collaboration and welcome contributions to my projects
 
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - LinkedIn: [Sudhanshu Ranjan](https://www.linkedin.com/in/sudhanshu-ranjan-7a3305216/)
-- Email: your@email.com
+- Email: sranjan.education@email.com
 
 Thank you for visiting my GitHub profile! Have a great day!
+
+NOTE: This profile is under development.
