@@ -1,7 +1,5 @@
 # Hi, I'm [Sudhanshu Ranjan] 👋
 
-![Profile Banner](path/to/banner.png)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sranjan-git&color=green)
 
 
