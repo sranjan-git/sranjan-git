@@ -1,4 +1,4 @@
-# Hi, I'm [Sudhanshu Ranjan] 👋
+# Hi, I'm Sudhanshu Ranjan 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sranjan-git&color=green)
 
