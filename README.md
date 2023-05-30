@@ -38,8 +38,8 @@ You can find more of my projects on [my portfolio website](link-to-portfolio-web
 
 ## 🌟 Achievements
 
-- [HTML, CSS and JavaScript for Web Developers by Coursera, AWS Cloud Practitioner Essentials by AWS]
-- [AWS Cloud Practitioner Essentials writeup on Medium]
+- HTML, CSS and JavaScript for Web Developers by Coursera, AWS Cloud Practitioner Essentials by AWS
+- AWS Cloud Practitioner Essentials writeup on Medium
 
 ## 🤝 Contributing
 
