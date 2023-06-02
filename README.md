@@ -30,9 +30,8 @@ Here are some of the key technologies and tools I work with:
 
 Here are a few noteworthy projects I have worked on:
 
-- [Corona Awareness Website](link-to-project-1): Short description of the project.
-- [Weather Application](link-to-project-2): Short description of the project.
-- [Expense Tracker](link-to-project-3): Short description of the project.
+- [Corona Awareness Website](https://sranjan-git.github.io/covid_19_awareness_website/): Short description of the project.
+- [Weather Application](https://sranjan-git.github.io/weather_app/): Short description of the project.
 
 You can find more of my projects on [my portfolio website](link-to-portfolio-website).
 
