@@ -42,7 +42,7 @@ You can find more of my projects on [my portfolio website](link-to-portfolio-web
 
 ## 🤝 Contributing
 
-I believe in the power of collaboration and welcome contributions to my projects. If you're interested in contributing, please feel free to submit pull requests. Let's make something awesome together!
+I believe in the power of collaboration and welcome contributions to my projects. If you're interested in contributing, please feel free to submit pull requests. Let's make something awesome together!!
 
 ## 📫 Get in Touch
 
