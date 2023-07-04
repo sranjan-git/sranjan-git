@@ -50,6 +50,6 @@ I believe in the power of collaboration and welcome contributions to my projects
 - LinkedIn: [Sudhanshu Ranjan](https://www.linkedin.com/in/sudhanshu-ranjan-7a3305216/)
 - Email: sranjan.education@email.com
 
-Thank you for visiting my GitHub profile! Have a great day!
+Thank you for visiting my GitHub profile! Have a great day!!
 
 NOTE: This profile is under development.
