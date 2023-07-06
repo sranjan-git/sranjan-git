@@ -46,7 +46,6 @@ I believe in the power of collaboration and welcome contributions to my projects
 
 ## 📫 Get in Touch
 
-- Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 - LinkedIn: [Sudhanshu Ranjan](https://www.linkedin.com/in/sudhanshu-ranjan-7a3305216/)
 - Email: sranjan.education@email.com
 
