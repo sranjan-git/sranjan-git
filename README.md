@@ -35,7 +35,7 @@ Here are a few noteworthy projects I have worked on:
 
 You can find more of my projects on [my portfolio website](link-to-portfolio-website).
 
-## 🌟 Achievements
+## 🌟 Certifications
 
 - HTML, CSS and JavaScript for Web Developers by Coursera, AWS Cloud Practitioner Essentials by AWS
 - AWS Cloud Practitioner Essentials writeup on Medium
