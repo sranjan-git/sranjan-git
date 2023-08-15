@@ -7,6 +7,7 @@ I'm a passionate software developer with a focus on Web Development. Welcome to 
 
 ## 🚀 About Me
 
+- 👔 Campus Ambassador at Cisco.
 - 💼 Currently working as Freelancer @Fiverr.
 - 👩‍💻 Open source Contributor @GirlScript Summer of Code.
 - 🎓 Undergraduate at Vellore Institute of technology.
