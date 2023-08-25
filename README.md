@@ -12,7 +12,7 @@ I'm a software developer with a focus on Web Development. Welcome to my GitHub p
 - 👩‍💻 Open source Contributor @GirlScript Summer of Code.
 - 🎓 Graduate at Vellore Institute of technology.
 - 🔭 Exploring new technologies and frameworks to expand my skill set.
-- 💡 Building robust and scalable applications.
+- 💡 Building robust and scalable applications on cloud.
 - 🌱 Enthusiastic learner and always eager to take on new challenges.
 
 ## 🛠️ Tech Stack
@@ -38,8 +38,11 @@ You can find more of my projects on [my portfolio website](https://sranjan-git.g
 
 ## 🌟 Certifications
 
-- HTML, CSS and JavaScript for Web Developers by Coursera, AWS Cloud Practitioner Essentials by AWS
-- AWS Cloud Practitioner Essentials writeup on Medium
+- Quantum Computing Fundamentals by Udemy
+- AWS Cloud Practitioner Essentials by AWS
+- HTML, CSS and JavaScript for Web Developers by Coursera
+
+
 
 ## 🤝 Contributing
 
