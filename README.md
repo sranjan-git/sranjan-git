@@ -55,4 +55,4 @@ I believe in the power of collaboration and welcome contributions to my projects
 
 Thank you for visiting my GitHub profile! Have a great day!!
 
-NOTE: This profile is under development.
+
