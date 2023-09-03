@@ -36,7 +36,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 
 Here are some of the key technologies and tools I work with:
 
-- **Programming Languages**: C, C++, Python, Ruby, JavaScript
+- **Programming Languages**: C, C#, C++, Python, Ruby, Kotlin, JavaScript
 - **Front-end Development**: HTML, CSS, JavaScript
 - **Back-end Development**: NodeJS, PHP
 - **Databases**: SQL
