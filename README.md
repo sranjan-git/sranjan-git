@@ -26,7 +26,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 
 - 👔 Campus Ambassador at Cisco.
 - 💼 Currently working as Freelancer @Fiverr.
-- 👩‍💻 Open source Contributor @GirlScript Summer of Code.
+- 👩‍💻 Former Open-source Contributor @GirlScript Summer of Code.
 - 🎓 Graduate at Vellore Institute of technology.
 - 🔭 Exploring new technologies and frameworks to expand my skill set.
 - 💡 Building robust and scalable applications on cloud.
