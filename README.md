@@ -28,7 +28,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 - 💼 Currently working as Freelancer @Fiverr.
 - 👩‍💻 Former Open-source Contributor @GirlScript Summer of Code.
 - 🎓 Graduate at Vellore Institute of technology.
-- 🔭 Exploring new technologies and frameworks to expand my skill set.
+- 🔭 Exploring Neuro Symbolic AI.
 - 💡 Building robust and scalable applications on cloud.
 - 🌱 Enthusiastic learner and always eager to take on new challenges.
 
