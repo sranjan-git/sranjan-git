@@ -24,12 +24,14 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 
 ## 🚀 About Me
 
+
+-    Full-Stack Developer Intern @BI.
 - 👔 Campus Ambassador at Cisco.
 - 💼 Currently working as Freelancer @Fiverr.
 - 👩‍💻 Former Open-source Contributor @GirlScript Summer of Code.
 - 🎓 Graduate at Vellore Institute of technology.
 - 🔭 Exploring Neuro Symbolic AI.
-- 💡 Building robust and scalable applications on cloud.
+- 💡 Building robust and scalable applications.
 - 🌱 Enthusiastic learner and always eager to take on new challenges.
 
 ## 🛠️ Tech Stack
