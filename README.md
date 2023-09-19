@@ -32,7 +32,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 - 🎓 Graduate at Vellore Institute of technology.
 - 🔭 Exploring Neuro Symbolic AI.
 - 💡 Building robust and scalable applications.
-- 🌱 Enthusiastic learner and always eager to take on new challenges.
+- 🌱 Learning and Earning.
 
 ## 🛠️ Tech Stack
 
