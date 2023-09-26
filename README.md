@@ -44,7 +44,7 @@ Here are some of the key technologies and tools I work with:
 - **Databases**: SQL, MongoDB
 - **Frameworks and Libraries**: .NET
 - **Version Control**: Git, Xampp
-- **Other Tools**: LaTeX, Matplotlib, Jupyter, Replit, VSCode, Sublime, CodePen
+- **Other Tools**: LaTeX, Matplotlib, Jupyter, Replit, VSCode, Sublime, CodePen, PyTorch
 
 ## 💻 Projects
 
