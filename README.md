@@ -59,7 +59,7 @@ You can find more of my projects on [my portfolio website](https://sranjan-git.g
 ## 🌟 Certifications
 
 - Quantum Computing Fundamentals by Udemy
-- AWS Cloud Practitioner Essentials by AWS
+- AWS Cloud Practitioner by AWS
 - HTML, CSS and JavaScript for Web Developers by Coursera
 
 
