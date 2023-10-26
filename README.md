@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sranjan-git&color=green)
 
-<div align="center"
+<div align="center">
 <picture>
   <source>
     media="(prefers-color-scheme: dark)"
