@@ -53,7 +53,7 @@ Here are a few noteworthy projects I have worked on:
 
 - [Corona Awareness Website](https://sranjan-git.github.io/covid_19_awareness_website/): Short description of the project.
 - [Weather Application](https://sranjan-git.github.io/weather_app/): Short description of the project.
-- Currently working on Video Conferencing website and application.
+- Currently working on Video Conferencing website.
 
 You can find more of my projects on [my portfolio website](https://sranjan-git.github.io/Portfolio/).
 
