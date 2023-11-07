@@ -43,7 +43,7 @@ Here are some of the key technologies and tools I work with:
 - **Front-end Development**: HTML, CSS, JavaScript, React, Redux, TypeScript
 - **Back-end Development**: NodeJS, PHP
 - **Databases**: SQL, MongoDB
-- **Frameworks and Libraries**: .NET, OSSTMM, ISSAF
+- **Frameworks and Libraries**: .NET, matplotlib, OSSTMM, ISSAF
 - **Version Control**: Git, Xampp
 - **Other Tools**: LaTeX, Jupyter Notebook, Replit, VSCode, Sublime, CodePen, PyTorch
 
