@@ -25,7 +25,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 ## 🚀 About Me
 
 
-- 🧑‍💻 Full-Stack Developer Intern @BI.
+- 🧑‍💻 Former Full-Stack Developer Intern @BI.
 - 👔 Campus Ambassador at Cisco.
 - 💼 Currently working as Freelancer @Fiverr.
 - 👩‍💻 Former Open-source Contributor @GirlScript Summer of Code.
