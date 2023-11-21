@@ -28,6 +28,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 - 💼 Freelancer @Fiverr.
 - 👔 Campus Ambassador at Cisco.
 - 🧑‍💻 Former Full-Stack Developer Intern @BI.
+- 🧑‍💻 Former SDE Intern @Accenture.
 - 👩‍💻 Former Open-source Contributor @GirlScript Summer of Code.
 - 🎓 Graduate at Vellore Institute of technology.
 - 🔭 Exploring Neuro Symbolic AI.
