@@ -2,10 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sranjan-git&color=green)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
-[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css3&text=4)](https://github.com/harish-sethuraman/readme-components)
-
 <div align="center">
 <picture>
   <source>
