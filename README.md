@@ -54,7 +54,8 @@ Here are some of the key technologies and tools I work with:
 Here are a few noteworthy projects I have worked on:
 
 - [Corona Awareness Website](https://sranjan-git.github.io/covid_19_awareness_website/): Short description of the project.
-- [Weather Application](https://sranjan-git.github.io/weather_app/): Short description of the project.
+- [Cisco Community Official Website](https://ciscocommunity.vercel.app/): Short description of the project.
+- [Todo List](https://todo-fy.vercel.app/): Short description of the project.
 
 You can find more of my projects on [my portfolio.](https://sranjan.vercel.app)
 
