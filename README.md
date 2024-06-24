@@ -25,7 +25,8 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 ## 🚀 About Me
 
 
-- 💼 Freelancer @Fiverr.
+- 💼 Intern @buidspace
+- - 💼 Freelancer @Fiverr.
 - 👔 Campus Ambassador at Cisco.
 - 🧑‍💻 Open-source Developer @Social Winter of Code.
 - 🧑‍💻 Former Full-Stack Developer Intern @BI.
@@ -41,26 +42,27 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 
 Here are some of the key technologies and tools I work with:
 
-- **Programming Languages**: C, C#, C++,Php, Python, Ruby, Kotlin, JavaScript
-- **Front-end Development**: HTML, CSS, JavaScript, React, Redux, TypeScript
+- **Programming Languages**: C, C++, JavaScript
+- **Front-end Development**: HTML, CSS, JavaScript, React, Redux, TypeScript, NextJS
 - **Back-end Development**: NodeJS, PHP
 - **Databases**: SQL, MongoDB
 - **Frameworks and Libraries**: .NET, matplotlib, OSSTMM, ISSAF
 - **Version Control**: Git, Xampp
-- **Other Tools**: LaTeX, Jupyter Notebook, Replit, VSCode, Sublime, CodePen, PyTorch
+- **Other Tools**: LaTeX, Jupyter Notebook, Replit, VSCode, Sublime, CodePen, PyTorch, Git, Postman
 
 ## 💻 Projects
 
 Here are a few noteworthy projects I have worked on:
 
-- [Corona Awareness Website](https://sranjan-git.github.io/covid_19_awareness_website/): Short description of the project.
-- [Cisco Community Official Website](https://ciscocommunity.vercel.app/): Short description of the project.
-- [Todo List](https://todo-fy.vercel.app/): Short description of the project.
+- [Corona Awareness Website](https://sranjan-git.github.io/covid_19_awareness_website/)
+- [Cisco Community Official Website](https://ciscocommunity.vercel.app/)
+- [Todo List](https://todo-fy.vercel.app/)
 
 You can find more of my projects on [my portfolio.](https://sranjan.vercel.app)
 
 ## 🌟 Certifications
 
+- High Performance Codin, iamNeo
 - Quantum Computing Fundamentals by Udemy
 - AWS Cloud Practitioner & Essentials by AWS
 - HTML, CSS and JavaScript for Web Developers by Coursera
