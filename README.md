@@ -64,7 +64,7 @@ You can find more of my projects on [my portfolio.](https://sranjan.vercel.app)
 
 ## 🌟 Certifications
 
-- High Performance Codin, iamNeo
+- High Performance Coding, iamNeo
 - Quantum Computing Fundamentals by Udemy
 - AWS Cloud Practitioner & Essentials by AWS
 - HTML, CSS and JavaScript for Web Developers by Coursera
