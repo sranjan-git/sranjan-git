@@ -26,7 +26,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 
 
 - 💼 Intern @buidspace
-- - 💼 Freelancer @Fiverr.
+- 💼 Freelancer @Fiverr.
 - 👔 Campus Ambassador at Cisco.
 - 🧑‍💻 Open-source Developer @Social Winter of Code.
 - 🧑‍💻 Former Full-Stack Developer Intern @BI.
@@ -54,9 +54,11 @@ Here are some of the key technologies and tools I work with:
 
 Here are a few noteworthy projects I have worked on:
 
+- [Todo List](https://todo-fy.vercel.app/)
+- [EduJourney](https://edujourney.vercel.app)
 - [Corona Awareness Website](https://sranjan-git.github.io/covid_19_awareness_website/)
 - [Cisco Community Official Website](https://ciscocommunity.vercel.app/)
-- [Todo List](https://todo-fy.vercel.app/)
+
 
 You can find more of my projects on [my portfolio.](https://sranjan.vercel.app)
 
