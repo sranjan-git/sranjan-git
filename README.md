@@ -33,9 +33,7 @@ I'm a software developer with a focus on Web Development & Cloud Computing. Welc
 - 🧑‍💻 Former SDE Intern @Accenture.
 - 🧑‍💻 Former Open-source Contributor @GirlScript Summer of Code.
 - 🎓 Graduate at Vellore Institute of technology.
-- 🔭 Exploring Neuro Symbolic AI.
 - 💡 Building robust and scalable applications.
-- 🧑‍💻 Preparing for GSoC.
 - 🌱 Learning ♾️
 
 ## 🛠️ Tech Stack
@@ -56,6 +54,7 @@ Here are a few noteworthy projects I have worked on:
 
 - [Todo List](https://todo-fy.vercel.app/)
 - [EduJourney](https://edujourney.vercel.app)
+- [Course Management App](https://www.edujourney.vercel.app)
 - [Corona Awareness Website](https://sranjan-git.github.io/covid_19_awareness_website/)
 - [Cisco Community Official Website](https://ciscocommunity.vercel.app/)
 
