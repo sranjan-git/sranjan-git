@@ -1,11 +1,25 @@
 
-
-
-
-
 <!-- [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io) -->
 
 <h1 align="center">Hi 👾 , I'm Sudhanshu Ranjan</h1>
+![Profile Views](https://komarev.com/ghpvc/?username=sranjan-git&color=green)
+
+<div align="center">
+<picture>
+  <source>
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+magically+turn+caffeine+into+code+;and+transform+bugs+into+features.+;Don't+worry%2C+I've+got+99+problems%2C+;but+a+commit+ain't+one!" alt="Typing SVG" /></a>
 
