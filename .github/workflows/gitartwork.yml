@@ -15,4 +15,6 @@
             user_name: sranjan-git
             # Text on contribution graph 
             text: SUDHANSHU
+            
+             - uses: jasineri/simple-push-action@v1
       
