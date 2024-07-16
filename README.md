@@ -78,11 +78,5 @@ Socials:
 </p>
 
 
-## 📫 Get in Touch
-
-- LinkedIn: [Sudhanshu Ranjan](https://www.linkedin.com/in/sudhanshu-ranjan-7a3305216/)
-- Email: sranjan.education@gmail.com
-
-Thank you for visiting my GitHub profile! Have a great day!!
 
 
