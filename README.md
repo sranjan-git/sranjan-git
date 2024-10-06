@@ -21,7 +21,10 @@
 </picture>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Writing+gibberish+and +calling+it+a+code." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F7F7F7&center=true&vCenter=true&width=1000&height=50&lines=Breaking+News%3A+Writing+gibberish+and+calling+it+a+code." alt="Typing SVG" />
+</a>
+
 
 <img align="center" alt="Coding" width="100%" style="border-radius: 20px;" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif">
 
